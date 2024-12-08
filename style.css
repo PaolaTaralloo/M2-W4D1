@@ -24,7 +24,7 @@ body{
 
 #formContainer{
     width: 80%;
-    padding-bottom: 2em;
+
 }
 
 form{
@@ -63,9 +63,9 @@ input{
 
 #resultsContainer{
     width: 80%;
-    padding-bottom: 1em;
 }
 
 #resultCount{
     font-weight: bold;
+    padding-top: 1em;
 }
